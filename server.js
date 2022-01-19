@@ -6,6 +6,9 @@ const connectDB = require('./config/db');
 // Connect DB
 // connectDB();
 
+// https://www.youtube.com/watch?v=YocRq-KesCM
+
+
 console.log(process.env.MONGO_URI)
 
 const app = express();
